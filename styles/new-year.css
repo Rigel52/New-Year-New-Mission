@@ -1,0 +1,141 @@
+/*Banner Style*/
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+
+
+.banner{
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: url('/resources/Banner\ Image.png');
+    margin: auto;
+    align-items: center;
+    background-size: cover;
+    
+}
+.greeting{
+    position: relative;
+    top: 200px;
+    bottom: 0px;
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+.party{
+    position: relative;
+    top: 160px;
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+/*main body*/
+/*Offer-content*/
+.offer-content h1{
+    position: relative;
+    top: 120px;
+    font-family: Inter;
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+.offer-content h4{
+    position: relative;
+    top: 100px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+}
+.offer-content h3{
+    position: relative;
+    top: 70px;
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+/*Splash Image*/
+.splash-img{
+    position: relative;
+    top: 120px;   
+}
+
+/*welcome*/
+.welcome{
+    width: 1320px;
+    height: 600px;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: url('/resources/Vectorrr.png');
+    margin: 300px;
+    align-items: center;
+    background-size: cover;
+}
+.welcome{
+    display: flex;
+    padding-left: 120px;
+}
+.welcome-title{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+}
+.welcome-para{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+}
+.join-btn{
+    border-radius: 5px;
+    background: #FFF;
+    border: 0px;
+    color: #070211;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
